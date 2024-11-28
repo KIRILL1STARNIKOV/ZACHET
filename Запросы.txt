@@ -1,0 +1,5 @@
+SELECT * FROM stajirovka WHERE name = "РУДЗ";
+SELECT * FROM stajirovka;
+SELECT * FROM users;
+SELECT password FROM users WHERE username = 'admin';
+SELECT * FROM stajirovka WHERE id = 2;
